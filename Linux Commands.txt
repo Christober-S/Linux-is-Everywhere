@@ -1,0 +1,5 @@
+pwd -> It will print the current working direcotory(Print Working Directory)
+
+ls -> List files
+
+whoami -> It will print the current used logged In
