@@ -2,4 +2,14 @@ pwd -> It will print the current working direcotory(Print Working Directory)
 
 ls -> List files
 
-whoami -> It will print the current used logged In
+whoami -> It will print the current used logged-in
+
+ls {dir-name} -> It will list all files in the specified directory
+
+cd {dir-name}-> Change directory
+
+cd .. -> Undo 
+
+mkdir {new-dir-name} -> make new directory with the specific directory name mentioned
+
+touch {new-file-name} -> create new file with specific file name mentioned
