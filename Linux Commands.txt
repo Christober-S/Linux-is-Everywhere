@@ -13,3 +13,19 @@ cd .. -> Undo
 mkdir {new-dir-name} -> make new directory with the specific directory name mentioned
 
 touch {new-file-name} -> create new file with specific file name mentioned
+
+rm {file-name} -> Remove specified file
+
+rm -r {dir-name{ -> Remove specified directory
+
+ls -R {dir-name} -> Shows recursively, current dir and all its sub dir contents
+
+ls -a {dir-name} -> shows all including hidden files
+
+ls -l {dir-name} -> Detailed output, metadata of dir contents
+
+history - >It will display all history up to now
+
+history {number-of-lines} -> It will display specified number lines of history
+
+clear -> It will clear all from the terminal
