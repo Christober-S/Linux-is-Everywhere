@@ -26,6 +26,8 @@ ls -l {dir-name} -> Detailed output, metadata of dir contents
 
 history - >It will display all history up to now
 
-history {number-of-lines} -> It will display specified number lines of history
+history {number-of-lines} -> It will display a specified number lines of history
 
 clear -> It will clear all from the terminal
+
+cat {file-name} -> It will display the content which are in the specified file
