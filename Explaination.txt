@@ -1,0 +1,17 @@
+chris@christober-ubuntu:~$
+
+In this document I have explained these terminologies
+
+chris ->username
+
+christober-ubuntu ->computer name
+
+: ->separator
+
+~ ->home directory
+
+$ ->represents regular user
+
+chris@christober-ubuntu:~#
+
+# ->sign for root user
