@@ -1,0 +1,21 @@
+GUI:
+
+GUI= A graphical user interface, where we have graphical elements that you can iteract with, Like buttons
+
+
+CLI:
+
+CLI= Command Line Interface, where users type in commands and see the results printed on screen
+
+Terminal= The GUI Windows that you see on the screen. It takes commands and shows output 
+
+On servers you only have the CLI, no GUI
+
+
+Why CLI over GUI:
+
+Work more efficient
+
+Easier for bulk operations
+
+CLI is more powerfull
