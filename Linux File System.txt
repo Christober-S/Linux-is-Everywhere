@@ -43,3 +43,11 @@ this was used for user home directories
 
 third-party programs you install
 
+/etc:
+
+place where configurations for system-wide applications is stored
+
+/tmp:
+
+temporary resources required for some process, kept here temporarily
+
