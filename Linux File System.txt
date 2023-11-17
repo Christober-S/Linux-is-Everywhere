@@ -51,3 +51,11 @@ place where configurations for system-wide applications is stored
 
 temporary resources required for some process, kept here temporarily
 
+/boot:
+
+contains files required for booting
+
+/dev:
+
+Locations of device file - like webcam, keyboard, hard drive etc..
+
