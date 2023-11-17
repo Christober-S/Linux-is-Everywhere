@@ -17,3 +17,13 @@ Devices like printer, keyboard, usb
 
 Even directories. linux makes no difference between a file and a directory, since a directory is just a file containing names of other files
 
+Linux File System
+
+/home:
+
+contains home directories of all non-root users
+
+/root:
+
+Root user's home directory is at /root
+
