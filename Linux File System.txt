@@ -1,0 +1,19 @@
+File System is used to handle the data management of the storage
+
+The Linux file system has a hierarchical tree structure
+
+with 1 root folder
+
+
+Everything in Linux is a FILE
+
+Everything in the system is represented by a file descriptor
+
+Text documents, pictures etc.
+
+Commands, like pwd, ls tec.
+
+Devices like printer, keyboard, usb
+
+Even directories. linux makes no difference between a file and a directory, since a directory is just a file containing names of other files
+
