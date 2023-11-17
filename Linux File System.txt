@@ -59,3 +59,10 @@ contains files required for booting
 
 Locations of device file - like webcam, keyboard, hard drive etc..
 
+/var:
+
+contains files to which the system writes data during the course of its operation
+
+/media:
+
+Temporary mount points
