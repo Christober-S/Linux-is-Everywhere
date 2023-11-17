@@ -27,3 +27,11 @@ contains home directories of all non-root users
 
 Root user's home directory is at /root
 
+/bin:
+
+executables for most essential user commands
+
+/sbin:
+
+essential system binaries programs that admin would use (need superuser priviliage)
+
