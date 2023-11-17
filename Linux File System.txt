@@ -35,3 +35,11 @@ executables for most essential user commands
 
 essential system binaries programs that admin would use (need superuser priviliage)
 
+/usr:
+
+this was used for user home directories
+
+/opt:
+
+third-party programs you install
+
