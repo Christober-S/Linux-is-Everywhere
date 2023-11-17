@@ -66,3 +66,7 @@ contains files to which the system writes data during the course of its operatio
 /media:
 
 Temporary mount points
+
+Hidden files:
+
+Hidden files are primarly used to help prevent important data from being accidentally deleted
