@@ -33,3 +33,5 @@ clear -> It will clear all from the terminal
 cat {file-name} -> It will display the content which are in the specified file
 
 sudo passwd -l 'username' -> To change the password of a user
+
+sudo userdel -r 'username' ->	To remove a newly created user
