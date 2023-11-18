@@ -35,3 +35,5 @@ cat {file-name} -> It will display the content which are in the specified file
 sudo passwd -l 'username' -> To change the password of a user
 
 sudo userdel -r 'username' ->	To remove a newly created user
+
+SSH username@ip-address or hostname  ->	login into a remote Linux machine using SSH
