@@ -43,3 +43,5 @@ ip a -> Display all network interfaces and IP address
 ps -> List running processes
 
 uname -> Display system information
+
+su -> Switch user to become another user
