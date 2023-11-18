@@ -41,3 +41,5 @@ SSH username@ip-address or hostname  ->	login into a remote Linux machine using 
 ip a -> Display all network interfaces and IP address
 
 ps -> List running processes
+
+uname -> Display system information
