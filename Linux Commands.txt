@@ -45,3 +45,7 @@ ps -> List running processes
 uname -> Display system information
 
 su -> Switch user to become another user
+
+whereis –> View the exact location of any command types after this command
+
+cal -> View Calendar in terminal
