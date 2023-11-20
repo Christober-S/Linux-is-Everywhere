@@ -49,3 +49,7 @@ su -> Switch user to become another user
 whereis –> View the exact location of any command types after this command
 
 cal -> View Calendar in terminal
+
+sort -n myfile.txt -> The sort command is used to sort the lines of a file in a specified order
+
+du -sh * -> The du command is used to display the disk usage of files and directories.
