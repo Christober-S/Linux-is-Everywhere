@@ -4,7 +4,6 @@ The Linux file system has a hierarchical tree structure
 
 with 1 root folder
 
-
 Everything in Linux is a FILE
 
 Everything in the system is represented by a file descriptor
